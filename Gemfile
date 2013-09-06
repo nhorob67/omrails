@@ -19,3 +19,5 @@ group :assets do
 	gem 'coffee-rails', '~> 4.0.0'
 end
 
+gem 'turbolinks'
+
