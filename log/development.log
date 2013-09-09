@@ -28,3 +28,15 @@ Started GET "/rails/info/properties" for 127.0.0.1 at 2013-09-01 19:50:54 -0500
 Processing by Rails::InfoController#properties as */*
   Rendered c:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/railties-4.0.0.rc2/lib/rails/templates/rails/info/properties.html.erb (1.0ms)
 Completed 200 OK in 145ms (Views: 58.0ms | ActiveRecord: 39.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-09 13:03:58 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered c:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/railties-4.0.0.rc2/lib/rails/templates/rails/welcome/index.html.erb (24.0ms)
+Completed 200 OK in 267ms (Views: 181.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-09-09 13:04:29 -0500
+Processing by Rails::WelcomeController#index as HTML
+  Rendered c:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/railties-4.0.0.rc2/lib/rails/templates/rails/welcome/index.html.erb (1.0ms)
+Completed 200 OK in 16ms (Views: 15.0ms | ActiveRecord: 0.0ms)
